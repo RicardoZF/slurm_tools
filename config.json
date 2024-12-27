@@ -1,0 +1,10 @@
+{
+  "max_tasks":20,
+  "queue": "3090",
+  "nodes": 1,
+  "ntasks": 1,
+  "cpus-per-task": 2,
+  "mem-per-cpu": "4GB",
+  "ngpus": 0,
+  "name": "zf_slurm"
+}
